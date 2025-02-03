@@ -1,0 +1,11 @@
+{
+    "description": "mirror of cashvoid.com",
+    "repo": "https://github.com/Joe-Spencer",
+    "owner": {
+      "username": "Joe-Spencer",
+      "email": "13spencerjoseph@gmail.com"
+    },
+    "record": {
+      "CNAME": "Joe-Spencer.github.io"
+    }
+  }
